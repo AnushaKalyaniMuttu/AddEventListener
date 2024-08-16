@@ -1,0 +1,6 @@
+document.querySelector('.check').addEventListener('.click', function(){
+console.log(document.querySelector('.guess').value();
+});
+
+
+o/p: on click on button with class name click the value in class guess will be printed in the console
